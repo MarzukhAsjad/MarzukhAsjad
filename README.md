@@ -23,10 +23,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing an open source tool for visualising codebases graphically!**
-- 🌱 I'm currently learning: **📚 Raspberry Pi, Game Development, Rust**
-- 💬 Ask me about: **💡 SpringBoot, Java, Django, Unity, RESTful APIs, MySQL, System Design**
-- ⚡ Fun fact: **🎢 I am actually able to automate something under a day, that would manually take an hour (joke)**
+- 💼 I'm currently working on: **🤖 Creating a tiny R2D2 bot (droid from star wars)!**
+- 🌱 I'm currently learning: **🧠 Raspberry Pi, N8N, Nuxt.js**
+- 💬 Ask me about: **❓ SpringBoot, Java, FastAPI, WhatsApp Business API, System Design**
+- ⚡ Fun fact: **🫡 I am actually able to automate something under a day, that would manually take an hour (joke)**
 - 📂 Portfolio: **<a href="https://marzukhasjad.github.io/" target="_blank">https://marzukhasjad.github.io/</a>**
 
  **<h3 align="left">Skills</h3>**
