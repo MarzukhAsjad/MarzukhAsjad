@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngxajUwOHZ5YXdxdXVzeWYxNnNleWllcWtnazduMHcxOHFrZmoxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif" alt="👋 Hi, I'm mizookie (Marzukh) and I am a Software Engineer!"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngxajUwOHZ5YXdxdXVzeWYxNnNleWllcWtnazduMHcxOHFrZmoxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif" alt="👋 Hi, I'm mizookie and I am a Software Engineer!"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, I'm mizookie (Marzukh) and I am a Software Engineer!
+        👋 Hi, I'm mizookie and I am a Software Engineer!
       </h1>
     </summary>
   </ul>
@@ -19,15 +19,15 @@
 **<h3 align="left">Connect with me:</h3>** 
 <a href="https://github.com/MarzukhAsjad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/marzukh-akib-a-b7042590" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">🚀 Passionate software engineer, creating robust and scalable web applications. Skilled in both back-end and front-end technologies, with a keen eye for smooth business flow and performance optimization.</h3>**
+ **<h3 align="center">🚀 Passionate software engineer, creating robust and scalable web applications. Experienced in implementing smooth business flow and delivering performance optimization.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **🤖 Creating a tiny R2D2 bot (droid from star wars)!**
-- 🌱 I'm currently learning: **🧠 Raspberry Pi, N8N, Nuxt.js**
+- 💼 I'm currently working on: **Increasing my products' user count from 3000 to 5000**
+- 🌱 I'm currently learning: **🧠 N8N, Raspberry Pi, Rust**
 - 💬 Ask me about: **❓ SpringBoot, Java, FastAPI, WhatsApp Business API, System Design**
-- ⚡ Fun fact: **🫡 I am actually able to automate something under a day, that would manually take an hour (joke)**
-- 📂 Portfolio: **<a href="https://marzukhasjad.github.io/" target="_blank">https://marzukhasjad.github.io/</a>**
+- ⚡ Fun fact: **🤖 I love STAR WARS and I'm creating a tiny R2D2 bot!**
+- 📂 Portfolio: **<a href="https://github.com/MarzukhAsjad/" target="_blank">GitHub Profile</a>**
 
  **<h3 align="left">Skills</h3>**
 
