@@ -27,7 +27,7 @@
 - 🌱 I'm currently learning: **🧠 N8N, Raspberry Pi, Rust**
 - 💬 Ask me about: **❓ SpringBoot, Java, FastAPI, WhatsApp Business API, System Design**
 - ⚡ Fun fact: **🤖 I love STAR WARS and I'm creating a tiny R2D2 bot!**
-- 📂 Portfolio: **<a href="https://github.com/MarzukhAsjad/" target="_blank">GitHub Profile</a>**
+- 📂 Portfolio: **<a href="https://marzukhasjad.github.io" target="_blank">Personal Website</a>**
 
  **<h3 align="left">Skills</h3>**
 
