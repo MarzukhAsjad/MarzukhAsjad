@@ -52,6 +52,9 @@
 - 🌱 Currently learning: **Go, containerd, and a healthier work-life balance.**
 - 💬 Ask me about: **When to implement microservices but more importantly, when absolutely NOT to.**
 - ⚡ Fun fact: **I love rainbows and butterf — AI will take over the world and we GON die or go broke soon***
+<p align="center">
+  <img src="./assets/gon.gif" width="200"/>
+</p>
 - 📂 Portfolio: [marzukhasjad.github.io](https://marzukhasjad.github.io)
 
 ---
