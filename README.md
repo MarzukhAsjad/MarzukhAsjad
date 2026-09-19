@@ -19,31 +19,32 @@
 **<h3 align="left">Connect with me:</h3>** 
 <a href="https://github.com/MarzukhAsjad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/marzukh-akib-a-b7042590" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="center">🚀 Passionate software engineer, creating robust and scalable web applications. Experienced in implementing smooth business flow and delivering performance optimization.</h3>**
+ **<h3 align="center">Like programming, doing OSS and working on my own projects. Always happy to work on OSS!</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Increasing my products' user count from 3000 to 5000**
-- 🌱 I'm currently learning: **🧠 N8N, Raspberry Pi, Rust**
-- 💬 Ask me about: **❓ SpringBoot, Java, FastAPI, WhatsApp Business API, System Design**
-- ⚡ Fun fact: **🤖 I love STAR WARS and I'm creating a tiny R2D2 bot!**
+- 💼 I'm currently working on: **Yet another SaaS no one pays for!**
+- 🌱 I'm currently learning: **Go, containerd and better work-life-balance!**
+- 💬 Ask me about: **❓ when to implement micro-services and when NOT to (key)**
+- ⚡ Fun fact: **I love rainbows and butterfl- AI will take over the world and we gon die or go broke soon**
 - 📂 Portfolio: **<a href="https://marzukhasjad.github.io" target="_blank">Personal Website</a>**
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" height="32" alt="Three.js" style="margin-right: 4px">  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="32" alt="FastAPI" style="margin-right: 4px">  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" height="32" alt="Unity" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="32" alt="Firebase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="32" alt="Shell" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
+</div>
 
- **<h3 align="left">GitHub Stats</h3>**
+ **<h3 align="left">Some Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarzukhAsjad&theme=react&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&hide_border=false&show=" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarzukhAsjad&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarzukhAsjad&repo=anigen-blender-utils&theme=default&cache_seconds=1800&border_radius=4&show_owner=true" alt="GitHub repo-card Card" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=MarzukhAsjad&theme=maroongold" alt="GitHub stats Card" />
 </p>
 
  **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/mizookie510" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=plastic&logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+ <p>Incentivize me to work harder by reaching out to me on GitHub so that the above card becomes S+</p>
