@@ -1,50 +1,99 @@
+<!-- Chaotic engineer energy, professionally contained -->
+
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngxajUwOHZ5YXdxdXVzeWYxNnNleWllcWtnazduMHcxOHFrZmoxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif" alt="👋 Hi, I'm mizookie and I am a Software Engineer!"/>
+  <img
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYngxajUwOHZ5YXdxdXVzeWYxNnNleWllcWtnazduMHcxOHFrZmoxYiZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/nGMnDqebzDcfm/giphy.gif"
+    alt="Animated coding GIF"
+  />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MarzukhAsjad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=MarzukhAsjad&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+  <a href="https://github.com/MarzukhAsjad?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/MarzukhAsjad?label=Followers&style=flat&color=0e75b6"
+      alt="GitHub followers"
+    />
+  </a>
 </p>
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, I'm mizookie and I am a Software Engineer!
-      </h1>
-    </summary>
-  </ul>
-</div>
+<h1 align="center">👋 Hi, I'm mizookie</h1>
 
-**<h3 align="left">Connect with me:</h3>** 
-<a href="https://github.com/MarzukhAsjad" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/marzukh-akib-a-b7042590" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center">
+  <strong>Software Engineer · SaaS Builder · Distributed SaaS Builder</strong>
+</p>
 
- **<h3 align="center">Like programming, doing OSS and working on my own projects. Always happy to work on OSS!</h3>**
+<p align="center">
+  <a href="https://github.com/MarzukhAsjad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/marzukh-akib-a-b7042590" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn">
+  </a>
+  <a href="https://marzukhasjad.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfolio">
+  </a>
+</p>
 
-**<h3 align="left">Rapid Fire</h3>**
+<p align="center">
+  I like programming, doing OSS, shipping side projects, and lately reconnecting with my cultural roots.
+  <br />
+  Always happy to collaborate on interesting open-source work.
+</p>
 
-- 💼 I'm currently working on: **Yet another SaaS no one pays for!**
-- 🌱 I'm currently learning: **Go, containerd and better work-life-balance!**
-- 💬 Ask me about: **❓ when to implement micro-services and when NOT to (key)**
-- ⚡ Fun fact: **I love rainbows and butterfl- AI will take over the world and we gon die or go broke soon**
-- 📂 Portfolio: **<a href="https://marzukhasjad.github.io" target="_blank">Personal Website</a>**
+---
 
- **<h3 align="left">Skills</h3>**
+## ⚡ Rapid Fire
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px">
-</div>
+- 💼 Currently working on: **Yet another SaaS no one pays for**
+- 🌱 Currently learning: **Go, containerd, and a healthier work-life balance.**
+- 💬 Ask me about: **When to implement microservices but more importantly, when absolutely NOT to.**
+- ⚡ Fun fact: **I love rainbows and butterf — AI will take over the world and we GON die or go broke soon***
 
- **<h3 align="left">Some Stats</h3>**
+<p align="center">
+    <img
+        src="https://tenor.com/17654d54-2222-4d4f-a297-6bd3c3b951a2.gif"
+        alt="Gon anger"
+    />
+</p>
+
+- 📂 Portfolio: [marzukhasjad.github.io](https://marzukhasjad.github.io)
+
+---
+
+## 🛠️ Skills
 
 <p align="left">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=MarzukhAsjad&theme=maroongold" alt="GitHub stats Card" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" height="32" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="32" alt="Java">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="32" alt="Go">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" alt="Docker">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="32" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="32" alt="PostgreSQL">
 </p>
 
- **<h3 align="left">Support Me</h3>**
- <p>Incentivize me to work harder by reaching out to me on GitHub so that the above card becomes S+</p>
+---
+
+## 📈 Some Stats
+
+<p align="left">
+  <img
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=MarzukhAsjad&theme=maroongold"
+    alt="GitHub stats"
+  />
+</p>
+
+---
+
+## 🤝 Support Me
+
+The fastest way to incentivize me is to make the card above look more impressive.
+
+- Star a repository you found useful.
+- Open an issue with an idea, bug report, or mildly unreasonable feature request.
+- Say hello on [GitHub](https://github.com/MarzukhAsjad).
+- Help me upgrade that card to an **S+**.
