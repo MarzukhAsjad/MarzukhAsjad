@@ -55,6 +55,7 @@
 <p align="center">
   <img src="./assets/gon.gif" width="200"/>
 </p>
+
 - 📂 Portfolio: [Mizookie Teazookie](https://marzukhasjad.github.io)
 
 ---
