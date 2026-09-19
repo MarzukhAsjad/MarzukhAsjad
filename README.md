@@ -56,7 +56,7 @@
   <img src="./assets/gon.gif" width="200"/>
 </p>
 
-- 🗣️ Blog: [Mizookie Teazookie](https://marzukhasjad.github.io)
+- 🗣️ Blog: [Mizookie Teazookie](https://marzukhasjad.github.io/#/blog)
 
 ---
 
